@@ -1,5 +1,5 @@
 # File Finder
-A utility app that searches your system for files using their relative path name. Implemented using File I/O and iterators. The program has three types of iterators: ShallowFileIterator, DeepFileIterator, and FilteredFileIterator.
+A utility app that searches your system for files using their relative path name. Implemented using File I/O and iterators. The program has three types of iterators: ShallowFileIterator, DeepFileIterator, and FilteredFileIterator. With this program, I practiced file input and output, as well as utilizing iterators and knowing how to step through directories with it.
 
 ## Shallow File Iterator
 The Shallow File Iterator simply searches and retrieves all the files in a specified directory.
